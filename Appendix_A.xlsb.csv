@@ -1,4 +1,4 @@
-Name,Used Name,Description
+Name,Used_Name,Description
 Violent Crime Rate,Crime rate,"Violent crime is composed of four offenses: murder and nonnegligent manslaughter, foricble rape, robbery, and aggravated assault. These are all crimes that involve force or threat of force. The rate is the number of reported offenses per 100,000 people in the population of the state. For example, a crime rate of 400 in a state with a population of 1,000,000 means that 4,000 violent crimes were reported."
 Presence of the Death Penalty,Death penalty,"The death penalty is the highest punishment administratable by courts and means that the convicted will be put to death. Not all states allow this punishment, so there are two levels of this binary variable: 0 for no death penalty, 1 for death penalty. "
 Average police funding,Police funding ,Police funding measures the amount of money a states spends on police departments per capita(person) in dollars.   
